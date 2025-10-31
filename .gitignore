@@ -1,0 +1,43 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.ipynb-filter
+.jupyter_cache/
+
+# Python specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+pip-log.txt
+pip-delete-this-arg.txt
+
+# IDE specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Data files (adjust as needed)
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.sqlite
+*.db
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.bak
+*.swp
