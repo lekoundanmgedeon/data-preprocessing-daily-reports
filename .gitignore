@@ -18,6 +18,7 @@ pip-delete-this-arg.txt
 # IDE specific files (e.g., VS Code, PyCharm)
 .vscode/
 .idea/
+*.code-workspace
 
 # Data files (adjust as needed)
 *.csv
