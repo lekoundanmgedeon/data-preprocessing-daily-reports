@@ -1,0 +1,36 @@
+AIMS Senegal Campus Log Dataset Summary
+==================================================
+
+total_records: 168480
+date_range: 2025-01-01 00:00:00 to 2025-03-31 23:00:00
+departments: 6
+devices: 78
+device_types: 11
+brands: 15
+
+==================================================
+
+Device Count by Department:
+department
+Academic_Director_Office     4
+Computer_Lab                35
+Finance_Logistics            9
+Kitchen                     11
+Research_Lab                11
+TA_Office                    8
+
+==================================================
+
+Device Count by Type:
+device_type
+ac                  4
+audio               1
+desktop            33
+display             2
+laptop             16
+printer             6
+refrigerator        3
+router              7
+stove               4
+supercomputer       1
+water_dispenser     1
